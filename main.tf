@@ -1,6 +1,6 @@
 provider "aws" {
   region  = "us-east-1"
-  profile = "student00" # Or replace with your profile
+  profile = "Student0" # Or replace with your profile
 }
 
 data "aws_caller_identity" "current" {}
